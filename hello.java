@@ -1,5 +1,8 @@
 hello
 
 {
+{
+
 	void main()
+}
 }
