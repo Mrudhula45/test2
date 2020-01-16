@@ -1,5 +1,4 @@
 main()
 {
 
-static main()
 }
